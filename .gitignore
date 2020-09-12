@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-*/friebase.js
+**/friebase.js
 /.pnp
 .pnp.js
 
